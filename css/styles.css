@@ -1,0 +1,252 @@
+.b-horizontal-menu {
+	width: 990px;
+	margin: 0 auto;
+    height: 60px;
+}
+
+.b-horizontal-menu  ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.b-horizontal-menu li {
+	float: left;
+}
+
+.b-horizontal-menu a {
+padding: 20px 23px;
+background: url('../images/background.jpg');
+text-decoration: none;
+text-align: center;
+font-size: 18px;
+color: #cc0033;
+display: block;
+}
+
+.b-horizontal-menu a:hover {
+	background: #d82a20;
+	color: #ffffff;
+}
+
+
+.b-left-menu {
+	width: 21%;
+	margin-left: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    clear: left;
+    float: left;
+    display: inline-block;
+}
+
+.navlist {
+	text-align: left;
+    list-style: none;
+    padding: 0;
+    width: 174px;
+    margin-top: -10px;
+}
+
+.navlist li {
+	display: block;
+	margin 0;
+	padding: 0;
+}
+
+.navlist li a {
+	display: block;
+	width: 100%;
+	padding: 0.5em 0 0.5em 2em;
+	border-width: 1px;
+    border-color: #ffe #aaab9c #ccc #fff;
+    border-style: white;
+    color: #777;
+    text-decoration: none;
+    background: #f7f2ea;
+}
+
+.navlist a {
+	background: #f0e7d7;
+    background-color: #CCCCFF;
+}
+
+.navlist li a:hover {
+	background: url('../images/background.jpg') repeat-x scroll center top transparent;
+    
+}
+
+
+.workarea {
+	background: url('../images/фон1.jpg');
+	width: 529px;
+    height: 961px;
+	padding: 1em 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    float: left;
+    display: inline-block;
+}
+
+.workarea-text {
+    text-align: left;
+    margin-left: 30px;
+    font-family: Georgia;
+    font-size: 14px;
+    color: #7d6e53;
+}
+
+.block {
+    float: left;
+    width: 25.333%;
+    margin-left: 30px;
+}
+
+.title {
+    color: #e00044;
+    text-align: left;
+    margin-left: 30px;
+    font-family: Times New Roman;
+    font-size: 30px;
+    margin-top: 8px;
+}
+
+
+.right-sidebar {
+	float: right;
+    width: 200px;
+    position: relative;
+    background: none repeat scroll 0% 0% white;
+    text-align: center;
+    margin-right: 58px;
+}
+
+.price {
+	font-size: 14px;
+    color: #e00044;
+    font-family: Georgia;
+    margin-bottom: 13px;
+}
+
+input.button {
+    cursor: pointer;
+    background: #e42b24;
+    border: medium none;
+    color: #ffffff;
+    height: 29px;
+    margin: 15px;
+    width: 142px;
+    font-family: Georgia;
+    font-size: 14px;
+}
+
+.copyrights p {
+    margin: 0 auto;
+    font-size: 12px;
+    color: #786e65;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.copyrights a {
+    font-size: 12px;
+    color: #786e65;
+    font-family: Georgia;
+}
+
+.copyrights {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.top-sidebar {
+    background: url('../images/background.jpg') repeat-x scroll center top transparent;
+    height: 60px;
+    font-family: Georgia;
+    font-size: 18px;
+    color: #e00044;
+    padding: 20px;
+}
+
+.top-sidebar-2 {
+    background: url('../images/background.jpg') repeat-x scroll center top transparent;
+    height: 70px;
+    width: 200px;
+    font-family: Georgia;
+    font-size: 18px;
+    color: #e00044;
+}
+
+body {
+    margin: 0;
+}
+
+.b-wrapper {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.link {
+    text-decoration: none;
+    font-family: Georgia;
+    font-size: 14px;
+    color: #7d6e53;
+}
+
+.b-horizontal-menu-item {
+    font-family: Georgia;
+    font-size: 18px;
+    color: #e00044;
+}
+
+.search-background {
+    background: url('../images/search.jpg') repeat-x scroll center top transparent;
+    width: 32px;
+    height: 30px;
+    border: 0;
+    margin-right: 19px;
+    margin-top: 23px;
+}
+
+.search-text {
+    width: 124px;
+    height: 24px;
+    float: left;
+    margin-left: 19px;
+    margin-top: 23px;
+}
+
+.search-area {
+    width: 200px;
+    height: 60px;
+    background: url('../images/background.jpg') repeat-x scroll center top transparent;
+}
+
+.search-title {
+    font-family: Georgia;
+    font-size: 18px;
+    color: #e00044;
+    padding: 20px;
+    display: block;
+}
+
+.search-area-2 {
+    width: 200px;
+    height: 80px;
+    background: #f3f3eb;
+}
+
+.indent {
+    margin-top: 30px;
+}
+
+.catalog {
+    padding: 20px;
+    margin-top: 0px;
+}
